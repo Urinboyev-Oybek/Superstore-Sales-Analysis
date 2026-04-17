@@ -25,8 +25,6 @@ Based on the exploratory data analysis, the following key insights were discover
 
 ## 🚀 How to Run the Project
 
-## 🚀 How to Run the Project
-
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Urinboyev-Oybek/Superstore-Sales-Analysis.git](https://github.com/Urinboyev-Oybek/Superstore-Sales-Analysis.git)
