@@ -30,3 +30,14 @@ Based on the exploratory data analysis, the following key insights were discover
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Urinboyev-Oybek/Superstore-Sales-Analysis.git](https://github.com/Urinboyev-Oybek/Superstore-Sales-Analysis.git)
+2. Install the required libraries:
+
+```bash
+pip install pandas matplotlib seaborn jupyter
+```
+3. Run the Jupyter Notebook:
+
+```bash
+jupyter notebook
+```
+Open 240219.ipynb in your browser and run the cells.
